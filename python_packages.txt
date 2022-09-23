@@ -2,6 +2,8 @@ jupyter
 numpy
 scipy
 pandas
+opencv-python
+Pillow
 matplotlib
 sklearn
 flask
