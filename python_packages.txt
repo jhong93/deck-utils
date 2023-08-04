@@ -1,7 +1,5 @@
-jupyter
 numpy
 scipy
-pandas
 opencv-python
 Pillow
 matplotlib
